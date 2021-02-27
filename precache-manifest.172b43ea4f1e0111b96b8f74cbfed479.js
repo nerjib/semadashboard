@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b76c38a56ba49c38e809b68ea89b800c",
+    "revision": "3c4b238354b0fc646710a815c21fe3a8",
     "url": "/semadashboard/index.html"
   },
   {
-    "revision": "cd792d2990e478e24e6f",
+    "revision": "33a3cb5dc07a6e8e2906",
     "url": "/semadashboard/static/css/2.d0176e96.chunk.css"
   },
   {
-    "revision": "2062f7afaee987bb0448",
+    "revision": "4be7ec74a21efb7696f0",
     "url": "/semadashboard/static/css/main.8e9f8467.chunk.css"
   },
   {
-    "revision": "cd792d2990e478e24e6f",
-    "url": "/semadashboard/static/js/2.c3e05165.chunk.js"
+    "revision": "33a3cb5dc07a6e8e2906",
+    "url": "/semadashboard/static/js/2.71dc976c.chunk.js"
   },
   {
     "revision": "34491c6de1fbcf2388878b87785c74e7",
-    "url": "/semadashboard/static/js/2.c3e05165.chunk.js.LICENSE.txt"
+    "url": "/semadashboard/static/js/2.71dc976c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "2062f7afaee987bb0448",
-    "url": "/semadashboard/static/js/main.a1b00454.chunk.js"
+    "revision": "4be7ec74a21efb7696f0",
+    "url": "/semadashboard/static/js/main.b9a74af5.chunk.js"
   },
   {
     "revision": "63dd7d971ad561ffbd8e",
