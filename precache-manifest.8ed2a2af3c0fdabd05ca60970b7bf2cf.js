@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3c4b238354b0fc646710a815c21fe3a8",
+    "revision": "82a9cb4885f4fe1e3a4dd242c6f0c6c7",
     "url": "/semadashboard/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/semadashboard/static/css/2.d0176e96.chunk.css"
   },
   {
-    "revision": "4be7ec74a21efb7696f0",
+    "revision": "513dfe79d2edae73a618",
     "url": "/semadashboard/static/css/main.8e9f8467.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/semadashboard/static/js/2.71dc976c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "4be7ec74a21efb7696f0",
-    "url": "/semadashboard/static/js/main.b9a74af5.chunk.js"
+    "revision": "513dfe79d2edae73a618",
+    "url": "/semadashboard/static/js/main.b4fe24a9.chunk.js"
   },
   {
     "revision": "63dd7d971ad561ffbd8e",
@@ -36,8 +36,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/semadashboard/static/media/marc.8880a65c.jpg"
   },
   {
-    "revision": "e6ee3c5b800b8f39c2452a45170f7b7e",
-    "url": "/semadashboard/static/media/semaLogo.e6ee3c5b.jpg"
+    "revision": "ee84f2709a8238ac22256225d99549b3",
+    "url": "/semadashboard/static/media/semaLogo.ee84f270.png"
   },
   {
     "revision": "8e9f0a3c5578a20733d5bad0e51c91fb",
